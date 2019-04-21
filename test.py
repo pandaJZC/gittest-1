@@ -1,2 +1,2 @@
 print('jiachsao')
-print('pangru')
+print('pang')
